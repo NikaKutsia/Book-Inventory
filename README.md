@@ -3,7 +3,7 @@
 This repository contains the source code for my book inventory app project.
 
 ## 🚀 Live Demo
-You can view the live site here: [https://nikakutsia.github.io/Portfolio/](https://nikakutsia.github.io/Portfolio/)
+You can view the live site here: [https://nikakutsia.github.io/Book-Inventory/](https://nikakutsia.github.io/Book-Inventory/)
 
 ---
 *Maintained by Nika Kutsia*
